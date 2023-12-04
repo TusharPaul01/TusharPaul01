@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **University ChatBot & LLMs**<br>
 
-- Chatbot Link : https://strident-narrow-goatfish.anvil.app/
+- Jaypee University Chatbot Link : https://strident-narrow-goatfish.anvil.app/
 
 - ⚡ My **Research Paper Publication at IEEE**<br>
   IEEE Link : https://ieeexplore.ieee.org/abstract/document/10165824
