@@ -5,23 +5,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpaul01&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpaul01" /> </p>
 
 
-- 🔭 I’m currently working on **ChatBot**<br>
+- 🔭 I’m currently working on **University ChatBot**<br>
   Chatbot Link : https://strident-narrow-goatfish.anvil.app/
 
 - ⚡ My **Research Paper Publication at IEEE**<br>
   IEEE Link : https://ieeexplore.ieee.org/abstract/document/10165824
     
-- 🌱 I’m currently learning **ML, DL, React, JS**
+- 🌱 I’m currently learning **ML, DL, LLM & AI**
 
 - 👯 I’m looking to collaborate on [Sentiment Analysis](https://wilted-left-quail.anvil.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TusharPaul01](https://github.com/TusharPaul01)
 
-- 💬 Ask me about **ML , DL , AI & IoT**
+- 💬 Ask me about **ML , DL , Data Science, AI & IoT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tusharpaul2001/**
 
-- ⚡ Fun fact **Computer communicates through 0’s and 1’s**
+- ⚡ Moye Moye!! **Turning my chaos into Python poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
